@@ -28,7 +28,7 @@
     "format-json": "^1.0.3",
     "lodash": "^4.17.2",
     "prop-types": "15.6.0",
-    "querystringify": "0.0.4",
+    "querystringify": "2.0.0",
     "ramda": "^0.24.1",
     "react": "16.0.0-beta.5",
     "react-native": "0.49.3",
